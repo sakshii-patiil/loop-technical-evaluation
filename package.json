@@ -1,0 +1,15 @@
+{
+  "name": "loop-technical-evaluation",
+  "version": "1.0.0",
+  "description": "Data-driven Playwright test suite for Loop Technical Evaluation",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:headed": "npx playwright test --headed",
+    "test:report": "npx playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.44.0",
+    "@types/node": "^25.6.0",
+    "typescript": "^5.4.0"
+  }
+}

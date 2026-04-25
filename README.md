@@ -3,7 +3,7 @@
 This repository contains the automated test suite for the Loop Technical Evaluation 2025. The suite is built using **Playwright** with **TypeScript** and follows a **data-driven** approach.
 
 ## Objective
-The goal of this project is to automate the verification of task placement and metadata (tags) within a project management application (Asana-like demo).
+The goal of this project is to automate the verification of task placement and metadata (tags) within a project management application.
 
 ## Features
 - **Data-Driven Testing**: All test scenarios are stored in `testData.json`, allowing for easy scaling of test cases without modifying the test logic.
